@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32dd8490-6b93-4e4d-87fc-3b2fae05eb9c</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32dd8490-6b93-4e4d-87fc-3b2fae05eb9c</dc:identifier>
+        <dc:title>《六朝清羽记》1-784</dc:title>
+        <dc:creator opf:file-as="弄玉 &amp; 龙璇" opf:role="aut">弄玉</dc:creator>
+        <dc:creator opf:file-as="弄玉 &amp; 龙璇" opf:role="aut">龙璇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-22T16:00:00+00:00</dc:date>
+        <dc:description>更新：2021-05-07
+校对：六朝读书会
+版本：章节精校版6.17.1
+出版：河图文化有限公司
+【限】本产品属限制级，未满十八岁请勿购买。
+说明：通常的《六朝清羽记》完本仅是第一部，本章节精校版是把首部（共31集）、第二部《六朝云龙吟》（共39集）和连载中的第三部《六朝燕歌行》（最新第23集）合并在一起，重新编目，修正了各种错漏之处，去除不必要的分卷、简介、附录、附图等，缩小了文件体积，使全书更加精炼，便于阅读。
+另有豪华精校版，完整备查，以供收藏。（Q群677466834，点击访问下载）
+推荐：打开ePub格式的阅读应用程序种类多样，各有优劣，建议移动设备使用“多看阅读”，电脑平台使用“Calibre”或“Adobe Digital Editions”。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:rights>本电子书由epubBuilder制作生成，欢迎访问http://www.cnepub.com分享交流海量电子书。
+epubBuilder仅供交流使用，未经授权，不得用于商业用途。</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
